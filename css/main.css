@@ -13,8 +13,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 .watermelon h1 {
-  background-color:
   font-family: 'Rammetto One', cursive;
 }
 
